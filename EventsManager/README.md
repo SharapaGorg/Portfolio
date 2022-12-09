@@ -30,7 +30,7 @@ This is how it seems now:
 
 ### Log in/Sign up form
 
-![auth form](/assets/auth.png)
+![auth form](./assets/auth.png)
 
 ### Other
 

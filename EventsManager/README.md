@@ -26,7 +26,7 @@ This is how it seems now:
  - time grid with touchable blocks (events)
  - buttons to zoom time grid at the bottom right
 
-![This is how it seems](/assets/schedule.png)
+![This is how it seems](./assets/schedule.png)
 
 ### Log in/Sign up form
 
@@ -36,12 +36,12 @@ This is how it seems now:
 
 **Add event / topic**
 
-![add topic](/assets/1.png)
-![add event](/assets/2.png)
+![add topic](./assets/1.png)
+![add event](./assets/2.png)
 
 **Home screen**
 
-![home](/assets/home.png)
+![home](./assets/home.png)
 
 ### Technologies
 

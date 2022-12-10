@@ -53,3 +53,7 @@ This is how it seems now:
  - [**python3**](https://www.python.org/)
  - [**flask.py (API)**](https://flask.palletsprojects.com/en/2.2.x/)
  - [**sqlalchemy (sqlite) - database**](https://www.sqlalchemy.org/)
+
+### Source code
+
+https://github.com/SharapaGorg/EventsManager
